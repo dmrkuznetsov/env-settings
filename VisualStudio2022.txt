@@ -1,0 +1,4 @@
+ALT W L - close all tabs
+CTRL ALT L - Solution Explorer
+SHIFT F2 - create new file
+CTRL + . - suggestions
